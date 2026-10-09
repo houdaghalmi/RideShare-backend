@@ -13,3 +13,7 @@
 .env.dev
 
 docker-compose.yml
+###> phpunit/phpunit ###
+/phpunit.xml
+/.phpunit.cache/
+###< phpunit/phpunit ###
